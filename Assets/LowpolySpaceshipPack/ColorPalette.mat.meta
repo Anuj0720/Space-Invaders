@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a446aab8b77b4374ba47ef00c9cba7d6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 196496
+  packageName: LowpolySpaceshipPack
+  packageVersion: 1.0
+  assetPath: Assets/LowpolySpaceshipPack/ColorPalette.mat
+  uploadId: 440349
